@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2018-07-12T12:44:27.303Z",
-            "updatedAt": "2018-07-12T12:44:27.303Z",
+            "updatedAt": "2018-07-12T12:54:13.183Z",
             "publishedAt": null,
             "contentExpiresAt": null,
             "taggedNewUntil": "2018-09-12T12:43:10.172Z",
@@ -24,7 +24,8 @@
         "time": null,
         "isConditional": false,
         "freeRun": true,
-        "poster": null
+        "poster": null,
+        "version": "2"
     },
     "locales": {
         "en": {

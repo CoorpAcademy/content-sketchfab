@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T12:54:13.182Z",
+            "updatedAt": "2018-07-12T12:54:13.182Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V11Wh4lXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_Vkvw3Ne7H",
+        "universalRef": "sli_Vkvw3Ne7H",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_VytUA4emH"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_Vkvw3Ne7H.choice_Nk04CElXB.id",
+                        "label": "choice_Nk04CElXB",
+                        "value": "choice_Nk04CElXB"
+                    },
+                    {
+                        "id": "sli_Vkvw3Ne7H.choice_N1XSCVgmS.id",
+                        "label": "choice_N1XSCVgmS",
+                        "value": "choice_N1XSCVgmS"
+                    },
+                    {
+                        "id": "sli_Vkvw3Ne7H.choice_VkRrC4gmr.id",
+                        "label": "choice_VkRrC4gmr",
+                        "value": "choice_VkRrC4gmr"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1XSCVgmS"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does this type of valve is called?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "A butterfly valve is from a family of valves called quarter-turn valves. In operation, the valve is fully open or closed when the disc is rotated a quarter turn.",
+            "tips": "After World War II, synthetic rubbers were used in the sealer members, allowing the butterfly valve to be used in many more industries.",
+            "clue": "It has the name of a insect",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_Nk04CElXB": "Ball valve",
+            "choice_N1XSCVgmS": "Butterfly valve",
+            "choice_VkRrC4gmr": "Disco valve"
+        }
+    }
+}
