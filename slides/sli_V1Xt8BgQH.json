@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T13:32:28.198Z",
+            "updatedAt": "2018-07-12T13:32:28.198Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V11Wh4lXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_V1Xt8BgQH",
+        "universalRef": "sli_V1Xt8BgQH",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_NyDFPrxQS"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_V1Xt8BgQH.choice_VybvDHxmB.id",
+                        "label": "choice_VybvDHxmB",
+                        "value": "choice_VybvDHxmB"
+                    },
+                    {
+                        "id": "sli_V1Xt8BgQH.choice_4kCwvHg7S.id",
+                        "label": "choice_4kCwvHg7S",
+                        "value": "choice_4kCwvHg7S"
+                    },
+                    {
+                        "id": "sli_V1Xt8BgQH.choice_EJOuPSeQH.id",
+                        "label": "choice_EJOuPSeQH",
+                        "value": "choice_EJOuPSeQH"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_VybvDHxmB"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "How does this type of valve is called?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "An instrument needle valve uses a tapered pin to gradually open a space for fine control of flow. The flow can be controlled and regulated with the use of a spindle. A needle valve has a relatively small orifice with a long, tapered seat, and a needle-shaped plunger on the end of a screw, which exactly fits the seat.",
+            "tips": "Needle valves are usually used in flow-metering applications, especially when a constant, calibrated, low flow rate must be maintained for some time, such as the idle fuel flow in a carburettor.",
+            "clue": "A needle in a haystack",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_VybvDHxmB": "Needle valve",
+            "choice_4kCwvHg7S": "Screwing valve",
+            "choice_EJOuPSeQH": "Pin valve"
+        }
+    }
+}
