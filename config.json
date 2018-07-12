@@ -1,0 +1,7 @@
+{
+    "name": "Sketchfab",
+    "locales": [
+      "en"
+    ],
+    "s3Bucket": "static.coorpacademy.com/content/sketchfab"
+}
