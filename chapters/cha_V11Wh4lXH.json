@@ -1,0 +1,34 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T12:44:27.303Z",
+            "updatedAt": "2018-07-12T12:44:27.303Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "taggedNewUntil": "2018-09-12T12:43:10.172Z",
+            "keywords": [],
+            "modules": [
+                "mod_V1Ak24lXr"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "cha_V11Wh4lXH",
+        "universalRef": "cha_V11Wh4lXH",
+        "name": "name",
+        "position": 0,
+        "draft": false,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": true,
+        "poster": null
+    },
+    "locales": {
+        "en": {
+            "name": "Valve system"
+        }
+    }
+}

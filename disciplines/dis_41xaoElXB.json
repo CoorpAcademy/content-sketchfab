@@ -1,0 +1,39 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T12:44:27.329Z",
+            "updatedAt": "2018-07-12T12:44:27.329Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2018-09-12T12:42:08.029Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "dis_41xaoElXB",
+        "universalRef": "dis_41xaoElXB",
+        "name": "name",
+        "partnershipType": "custom",
+        "position": 0,
+        "hidden": false,
+        "draft": false,
+        "cover": {
+            "coverDescription": "coverDescription",
+            "resource": null,
+            "poster": null
+        },
+        "courses": [],
+        "thematiques": [],
+        "partners": [],
+        "conditions": [],
+        "version": "2"
+    },
+    "locales": {
+        "en": {
+            "name": "Sketchfab",
+            "coverDescription": "Sketchfab 3D"
+        }
+    }
+}
