@@ -1,0 +1,71 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T13:15:20.564Z",
+            "updatedAt": "2018-07-12T13:15:20.564Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V11Wh4lXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_4JYnCNeXB",
+        "universalRef": "sli_4JYnCNeXB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_4JUYXBeQB"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4JYnCNeXB.choice_EJpWmHemr.id",
+                        "label": "choice_EJpWmHemr",
+                        "value": "choice_EJpWmHemr"
+                    },
+                    {
+                        "id": "sli_4JYnCNeXB.choice_NJUVmSxmr.id",
+                        "label": "choice_NJUVmSxmr",
+                        "value": "choice_NJUVmSxmr"
+                    },
+                    {
+                        "id": "sli_4JYnCNeXB.choice_4ygHXremB.id",
+                        "label": "choice_4ygHXremB",
+                        "value": "choice_4ygHXremB"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_EJpWmHemr"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "What part of the valve regulates, directs or controls the flow?",
+            "explanation": "Select the correct answer(s).",
+            "klf": "There are five general body styles of ball valves: single body, three-piece body, split body, top entry, and welded. The difference is based on how the pieces of the valve—especially the casing that contains the ball itself—are manufactured and assembled. The valve operation is the same in each case.",
+            "tips": "The ball valve's ease of operation, repair, and versatility lend it to extensive industrial use, supporting pressures up to 1000 bar and temperatures up to 752 °F (400 °C), depending on design and materials used.",
+            "clue": "I came in like a Wrecking ____",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_EJpWmHemr": "The ball",
+            "choice_NJUVmSxmr": "The gasket",
+            "choice_4ygHXremB": "The seal"
+        }
+    }
+}
