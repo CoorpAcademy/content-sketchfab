@@ -3,7 +3,7 @@
         "meta": {
             "isoCore": null,
             "createdAt": "2018-07-12T12:44:27.329Z",
-            "updatedAt": "2018-07-12T12:44:27.329Z",
+            "updatedAt": "2018-07-12T14:15:12.852Z",
             "publishedAt": null,
             "taggedNewUntil": "2018-09-12T12:42:08.029Z",
             "contentExpiresAt": null,
@@ -22,7 +22,7 @@
         "cover": {
             "coverDescription": "coverDescription",
             "resource": null,
-            "poster": null
+            "poster": "med_NyBtZUgXS"
         },
         "courses": [],
         "thematiques": [],

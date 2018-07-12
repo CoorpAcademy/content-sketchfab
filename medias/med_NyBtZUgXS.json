@@ -1,0 +1,31 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T14:15:12.830Z",
+            "updatedAt": "2018-07-12T14:15:12.830Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "med_NyBtZUgXS",
+        "type": "img",
+        "src": [
+            {
+                "filename": "filename_NkxTKWLe7B",
+                "mimeType": "image/jpeg",
+                "mediaUrl": "mediaUrl_41TtZ8l7S",
+                "tmp": {}
+            }
+        ]
+    },
+    "locales": {
+        "en": {
+            "filename_NkxTKWLe7B": "zTAEhUz.jpg",
+            "mediaUrl_41TtZ8l7S": "//static.coorpacademy.com/content/CoorpAcademy/content-sketchfab/cockpit-sketchfab/default/ztaehuz-1531404907713.jpg"
+        }
+    }
+}
