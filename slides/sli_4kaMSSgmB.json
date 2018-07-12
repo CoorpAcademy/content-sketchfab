@@ -1,0 +1,66 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T13:25:04.894Z",
+            "updatedAt": "2018-07-12T13:25:04.894Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_V11Wh4lXH"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_4kaMSSgmB",
+        "universalRef": "sli_4kaMSSgmB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": "clue",
+        "question": {
+            "type": "template",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_NJNdSBlXB"
+            ],
+            "content": {
+                "template": "template",
+                "fields": [
+                    {
+                        "id": "sli_4kaMSSgmB.field_VylPHHemr.id",
+                        "type": "text",
+                        "name": "inp69144"
+                    }
+                ],
+                "answers": [
+                    {
+                        "fieldName": "inp69144",
+                        "answers": [
+                            "choice_V1GlwrBeQS",
+                            "choice_41vPSSemS"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "Which part of the valve apply pressure to close the diaphragm?",
+            "explanation": "Type your answer or select the right answer in the drop-down menu(s).",
+            "klf": "Diaphragm valves can be manual or automated. Their application is generally as shut-off valves in process systems within the industrial, food and beverage, pharmaceutical and biotech industries.",
+            "tips": "Diaphragm valves can be controlled by various types of actuators e.g. manual, pneumatic, hydraulic, electric etc. The most common diaphragm valves use pneumatic actuators",
+            "clue": "Name of the Detroit NBA team",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "template": "{{inp69144}}",
+            "choice_V1GlwrBeQS": "The piston",
+            "choice_41vPSSemS": "piston"
+        }
+    }
+}

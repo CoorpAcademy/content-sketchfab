@@ -1,0 +1,30 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-07-12T13:25:04.895Z",
+            "updatedAt": "2018-07-12T13:25:04.895Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "med_NJNdSBlXB",
+        "type": "video",
+        "src": [
+            {
+                "filename": "filename_NJb4dHrgXB",
+                "mimeType": "",
+                "mediaUrl": "mediaUrl_VJlNOBreXS"
+            }
+        ]
+    },
+    "locales": {
+        "en": {
+            "filename_NJb4dHrgXB": "filename",
+            "mediaUrl_VJlNOBreXS": "https://sketchfab.com/models/d3f4dea20f3f45059517533aca5a69cf"
+        }
+    }
+}
