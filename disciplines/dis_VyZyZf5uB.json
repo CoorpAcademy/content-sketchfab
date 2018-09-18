@@ -1,0 +1,39 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-09-18T16:05:33.979Z",
+            "updatedAt": "2018-09-18T16:05:33.979Z",
+            "publishedAt": null,
+            "taggedNewUntil": "2018-11-18T17:03:13.282Z",
+            "contentExpiresAt": null,
+            "keywords": [],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "dis_VyZyZf5uB",
+        "universalRef": "dis_VyZyZf5uB",
+        "name": "name",
+        "partnershipType": "coorp",
+        "position": 0,
+        "hidden": false,
+        "draft": false,
+        "cover": {
+            "coverDescription": "coverDescription",
+            "resource": null,
+            "poster": null
+        },
+        "courses": [],
+        "thematiques": [],
+        "partners": [],
+        "conditions": [],
+        "version": "2"
+    },
+    "locales": {
+        "en": {
+            "name": "Sketchfab Tour",
+            "coverDescription": "Get the awesome tour of the embed 3D Player"
+        }
+    }
+}

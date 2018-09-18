@@ -1,0 +1,37 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-09-18T16:05:33.955Z",
+            "updatedAt": "2018-09-18T16:05:33.955Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "taggedNewUntil": "2018-11-18T17:05:29.041Z",
+            "keywords": [],
+            "modules": [
+                "mod_N1Ir~f5dB"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "cha_VJFPZf5-S",
+        "universalRef": "cha_VJFPZf5-S",
+        "name": "name",
+        "skills": [],
+        "position": 0,
+        "draft": false,
+        "stars": 20,
+        "time": null,
+        "isConditional": false,
+        "freeRun": true,
+        "thematiques": [],
+        "partners": [],
+        "poster": null
+    },
+    "locales": {
+        "en": {
+            "name": "What we can do with the 3D Player"
+        }
+    }
+}
