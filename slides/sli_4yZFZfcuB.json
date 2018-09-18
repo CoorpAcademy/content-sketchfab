@@ -1,0 +1,59 @@
+{
+    "structure": {
+        "meta": {
+            "isoCore": null,
+            "createdAt": "2018-09-18T16:08:51.172Z",
+            "updatedAt": "2018-09-18T16:08:51.172Z",
+            "publishedAt": null,
+            "contentExpiresAt": null,
+            "keywords": [],
+            "chapters": [
+                "cha_VJFPZf5-S"
+            ],
+            "status": "draft",
+            "modifiedBy": "ThibaultRic",
+            "createdBy": "ThibaultRic"
+        },
+        "ref": "sli_4yZFZfcuB",
+        "universalRef": "sli_4yZFZfcuB",
+        "position": 0,
+        "klf": "klf",
+        "tips": "tips",
+        "clue": null,
+        "question": {
+            "type": "qcm",
+            "header": "header",
+            "explanation": "explanation",
+            "medias": [
+                "med_4Jt3~f9dr"
+            ],
+            "content": {
+                "choices": [
+                    {
+                        "id": "sli_4yZFZfcuB.choice_N1LoZM5-H.id",
+                        "label": "choice_N1LoZM5-H",
+                        "value": "choice_N1LoZM5-H"
+                    }
+                ],
+                "answers": [
+                    [
+                        "choice_N1LoZM5-H"
+                    ]
+                ]
+            }
+        }
+    },
+    "locales": {
+        "en": {
+            "header": "You can visit nice places without leaving your desk",
+            "explanation": "Select the correct answer(s).",
+            "klf": "Versailles",
+            "tips": "Versailles",
+            "clue": "",
+            "context_title": "",
+            "context_description": "",
+            "context_media_description": "",
+            "choice_N1LoZM5-H": "It's almost like i'm there!!!"
+        }
+    }
+}
