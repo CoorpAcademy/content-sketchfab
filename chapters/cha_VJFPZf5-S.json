@@ -28,7 +28,12 @@
         "thematiques": [],
         "partners": [],
         "poster": null,
-        "version": "2"
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            }
+        }
     },
     "locales": {
         "en": {
