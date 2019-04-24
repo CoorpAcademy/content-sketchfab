@@ -28,7 +28,12 @@
         "thematiques": [],
         "partners": [],
         "conditions": [],
-        "version": "2"
+        "version": "2",
+        "states": {
+            "en": {
+                "edition": "validate"
+            }
+        }
     },
     "locales": {
         "en": {
