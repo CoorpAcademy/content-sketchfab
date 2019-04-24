@@ -25,7 +25,12 @@
         "isConditional": false,
         "freeRun": true,
         "poster": "med_EkocZIlmB",
-        "version": "3"
+        "version": "3",
+        "states": {
+            "en": {
+                "edition": "validate"
+            }
+        }
     },
     "locales": {
         "en": {
